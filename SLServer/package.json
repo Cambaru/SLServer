@@ -1,0 +1,12 @@
+{
+  "name": "slserver",
+  "version": "0.0.0",
+  "description": "SLServer",
+  "main": "app.js",
+  "author": {
+    "name": "Cambaru"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
