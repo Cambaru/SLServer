@@ -4,7 +4,7 @@
   "description": "SLServer",
   "main": "app.js",
   "author": {
-    "name": "Cambaru"
+    "name": "Dav2070 & Cambaru"
   },
   "devDependencies": {
     "@types/node": "^6.0.87"
