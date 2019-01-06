@@ -2,6 +2,10 @@
   "name": "slserver",
   "version": "0.0.0",
   "description": "SLServer",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node ./dist/server.js"
+  },
   "main": "app.js",
   "author": {
     "name": "Dav2070 & Cambaru"
